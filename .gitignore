@@ -8,16 +8,6 @@
 /model4.png
 /Models
 /MRI
-/normalized_confusion_matrix.png
-/normalized_confusion_matrix_high_res.png
-/prediction_case_00495.png
-/prediction_case_00621.png
-/roc_curve_high_res.png
-/seg_slice_80.png
-/t1ce_slice_80.png
-/t1_slice_80.png
-/t2_slice_80.png
-/Visualization
-/VitUNet4Modalities.ipynb
+
 /vitUnetPrediction_case_00495.png
 /vitUnetPrediction_case_00621.png
